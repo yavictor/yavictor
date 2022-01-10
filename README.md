@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yavictor
+- 👋 Hi, I’m Victor Yashchuk
 - 👀 I’m interested in job proposals
 - 🌱 I’m currently learning css, js, php
 - 📫 How to reach me, just email me yavictor37@yandex.ru if you have any questions
